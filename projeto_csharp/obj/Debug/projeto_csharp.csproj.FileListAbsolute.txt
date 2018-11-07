@@ -1,0 +1,14 @@
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\bin\Debug\projeto_csharp.exe.config
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\bin\Debug\projeto_csharp.exe
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\bin\Debug\projeto_csharp.pdb
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\bin\Debug\MySql.Data.dll
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\bin\Debug\Google.Protobuf.dll
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\bin\Debug\MySql.Data.xml
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\obj\Debug\projeto_csharp.csprojAssemblyReference.cache
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\obj\Debug\projeto_csharp.Properties.Resources.resources
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\obj\Debug\projeto_csharp.csproj.GenerateResource.cache
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\obj\Debug\projeto_csharp.csproj.CoreCompileInputs.cache
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\obj\Debug\projeto_csharp.csproj.CopyComplete
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\obj\Debug\projeto_csharp.exe
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\obj\Debug\projeto_csharp.pdb
+C:\Users\jocea\source\repos\projeto_csharp\projeto_csharp\obj\Debug\projeto_csharp.FormPessoa.resources
